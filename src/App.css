@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+.squares{
+  border-style: solid;
+  margin: 0 auto;
+  margin-top: 160px;
+  max-width: 320px;
+  max-height: 320px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.red-squares {
+  width: 160px;
+  height: 160px;
+  background-color: red;
+}
+
+.blue-squares{
+  width: 160px;
+  height: 160px;
+  background-color: blue;
+}
+
+.yellow-squares{
+  width: 160px;
+  height: 160px;
+  background-color: yellow;
+}
+
+.green-squares{
+  width: 160px;
+  height: 160px;
+  background-color: green;
+}
